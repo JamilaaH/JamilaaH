@@ -4,9 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilaah&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Suyash's stats](https://github-readme-stats.vercel.app/api?username=jamilaah&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilaah&show_icons=true&theme=dracula)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JamilaH)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JamilaH&layout=compact&lang_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JamilaaH/JamilaaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
