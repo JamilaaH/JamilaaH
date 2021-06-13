@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Full Stack Developer junior 👩‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamilaah&show_icons=true&theme=dracula)
 
 
