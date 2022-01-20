@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Full Stack Developer junior 👩‍💻
+I'm Full Stack Developer Junior 👩‍💻
+I'm still learning Vuejs and Laravel API
+
 
 
 
