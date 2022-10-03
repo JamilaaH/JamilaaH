@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Full Stack Developer Junior 👩‍💻
-I'm still learning Vuejs and Laravel API
+I learnt the framework Vuejs & React.js and Laravel API
+| I would like to improve my skills in front-end development 
 
 
 
