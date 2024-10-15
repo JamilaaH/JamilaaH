@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Full Stack Developer Junior 👩‍💻
-I learnt the framework Vuejs & React.js and Laravel API and I still learning others langages like Java
-| I would like to improve my skills in front-end development 
+I am a developer and soon-to-be graduate in developer analyst. With a passion for creating efficient and user-friendly applications, I have gained experience in various programming languages and development frameworks throughout my studies. 👩‍💻
 
 
 
