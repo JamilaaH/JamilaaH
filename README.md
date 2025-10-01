@@ -30,8 +30,6 @@ _Ask me about what I’m building next—my best project might be the one I have
 ## 🤖 Let’s Connect
 
 Coding is my hobby, my craft, and my playground.  
-Want to collaborate, chat, or throw a challenge my way?  
-Open an issue, fork a repo, or drop a PR!
 
 ---
 
